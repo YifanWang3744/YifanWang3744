@@ -33,6 +33,6 @@
 - Backend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Swmming 🏊‍♂️ & Basketball 🏀 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/YifanWang3744/snake-game/blob/output/github-snake.svg" alt="animated" />
-</p>
+</p> -->
